@@ -1,7 +1,7 @@
 # Description
-A resource pack made by PayToUse, Installing is free!
-# Requirements
-Minecraft Bedrock 1.17.0, Make sure the storage selected is external
-# Contact
-Found any bugs or something? Contact us at: paytousebloxy1774@gmail.com
-Or my discord here: PayToUse#7875
+Just a custom language resource pack made by me in 2021, updating this one rn.
+# Version Requirements
+Minecraft Bedrock 1.17 and above, java is incompatible
+# Feedback
+Any stuff to feedback, send a mail here: paytousebloxy1774@gmail.com
+or my discord here: NotPTU#2336
